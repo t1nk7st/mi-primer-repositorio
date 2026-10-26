@@ -1,2 +1,3 @@
 Hola, soy estudiante de 1.º DAW.
 Estoy aprendiendo Git.
+Git me permite guardar diferentes versiones de mis archivos.
