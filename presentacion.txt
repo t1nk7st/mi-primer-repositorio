@@ -2,3 +2,5 @@ Hola, soy estudiante de 1.º DAW.
 Estoy aprendiendo Git.
 Git me permite guardar diferentes versiones de mis archivos.
 Esta linea la he anadido desde GitHub.
+Ahora vuelvo a trabajar desde mi ordenador.
+
