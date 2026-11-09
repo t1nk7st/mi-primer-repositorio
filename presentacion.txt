@@ -3,5 +3,5 @@ Estoy aprendiendo Git.
 Git me permite guardar diferentes versiones de mis archivos.
 Esta linea la he anadido desde GitHub.
 Ahora vuelvo a trabajar desde mi ordenador.
-Mi ciudad es Javea.
+Mi ciudad es Javea(Alicante).
 
